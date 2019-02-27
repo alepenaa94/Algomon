@@ -1,0 +1,28 @@
+     #juego{
+        -fx-background-image: url("VENTANA01.jpg");
+        -fx-background-position: center center;
+        /*Quitar las siguientes lineas si no quiero que se auto ajuste al ancho y alto y ademas que no se repita*/
+        -fx-background-size: 100% 100% ;
+        -fx-background-repeat: no-repeat ;
+    }
+     #bienvenida{
+        -fx-background-image: url("VENTANA01.jpg");
+        -fx-background-position: center center;
+        /*Quitar las siguientes lineas si no quiero que se auto ajuste al ancho y alto y ademas que no se repita*/
+        -fx-background-size: 100% 100% ;
+        -fx-background-repeat: no-repeat ;
+    }
+     #seleccion{
+        -fx-background-image: url("VENTANA02f.jpg");
+        -fx-background-position: center center;
+        /*Quitar las siguientes lineas si no quiero que se auto ajuste al ancho y alto y ademas que no se repita*/
+        -fx-background-size: 100% 100% ;
+        -fx-background-repeat: no-repeat ;
+    }
+    #seleccionAlgomon{
+        -fx-background-image: url("VENTANA02f.jpg");
+        -fx-background-position: center center;
+        /*Quitar las siguientes lineas si no quiero que se auto ajuste al ancho y alto y ademas que no se repita*/
+        -fx-background-size: 100% 100% ;
+        -fx-background-repeat: no-repeat ;
+    }
